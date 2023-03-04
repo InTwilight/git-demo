@@ -1,2 +1,4 @@
 hello,git!,github!,gitee!
 conflict test!
+hot-fix conflict test
+
